@@ -14,7 +14,7 @@ $array = [
 ];
 
 // Import the class
-use iRaziul\Dot\Arr;
+use Raziul\Dot\Arr;
 
 // Dot notation get
 echo Arr::get($array, 'author.name');

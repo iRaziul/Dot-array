@@ -1,6 +1,6 @@
 <?php
 
-namespace iRaziul\Dot;
+namespace Raziul\Dot;
 
 /**
  * Arr - Dot notation array for PHP
@@ -8,7 +8,7 @@ namespace iRaziul\Dot;
  * @author Raziul Islam <raziul.cse@gmail.com>
  * @link https://raziulislam.com
  * @version 1.0.0
- * @package iRaziul\Dot
+ * @package Raziul\Dot
  */
 class Arr
 {

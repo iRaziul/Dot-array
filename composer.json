@@ -1,17 +1,15 @@
 {
-    "name": "iraziul/dot-array",
+    "name": "raziul/dot-array",
     "description": "Dot notation for PHP Array",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "iRaziul",
-            "email": "raziul.cse@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Raziul Islam",
+        "email": "raziul.cse@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
-            "iRaziul\\Dot\\": "src/"
+            "Raziul\\Dot\\": "src/"
         }
     },
     "config": {
